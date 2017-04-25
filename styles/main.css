@@ -37,10 +37,7 @@ html {
      right: 0;
      height: 100px;
      color: white;
- }
-
-
-  text-decoration: none;
+     text-decoration: none;
  }
  
  .links-container .navbar-link {
